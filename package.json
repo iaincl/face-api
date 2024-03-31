@@ -54,7 +54,7 @@
     "@tensorflow/tfjs-core": "^4.16.0",
     "@tensorflow/tfjs-data": "^4.16.0",
     "@tensorflow/tfjs-layers": "^4.16.0",
-    "@tensorflow/tfjs-node": "^4.16.0",
+    "@tensorflow/tfjs-node": "^4.17.0",
     "@tensorflow/tfjs-node-gpu": "^4.16.0",
     "@types/node": "^20.11.5",
     "@types/offscreencanvas": "^2019.7.3",
